@@ -1,7 +1,6 @@
 # UC Berkeley CS188 Intro to AI: Pacman - Project 4: Ghostbusters
-Youtube link: https://youtu.be/183hTG6hQIg
 
-Nguyễn Mạnh Hùng, MSSV: 18020583
+Nguyễn Việt Cường, MSSV: 18020258
 
 2021I-INT3401 8 
 
